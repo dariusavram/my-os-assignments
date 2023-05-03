@@ -1,0 +1,8 @@
+a2.c: In function 'main':
+a2.c:67:13: warning: implicit declaration of function 'pthread_create' [-Wimplicit-function-declaration]
+   67 |             pthread_create(&t51, NULL, thr5, &a);
+      |             ^~~~~~~~~~~~~~
+a2.c:70:13: warning: implicit declaration of function 'pthread_join'; did you mean 'pthread_kill'? [-Wimplicit-function-declaration]
+   70 |             pthread_join(t51, NULL);
+      |             ^~~~~~~~~~~~
+      |             pthread_kill
