@@ -1,5 +1,8 @@
 ## Descriere
-În acest proiect am rezolvat în C câteva task-uri primite la Sisteme de Operare (afișarea unui identificator unic al variantei de asistență și listarea conținutului unui director conform unor criterii)
+În acest proiect am rezolvat în C câteva task-uri primite la Sisteme de Operare (afișarea unui identificator unic al variantei de asistență și listarea conținutului unui director conform unor criterii)  
+  
+  
+
 ![Exemplu](img.png)
 ## Compilare și Rulare
 Pentru a compila programul, folosește:
